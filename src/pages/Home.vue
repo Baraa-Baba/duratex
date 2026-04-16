@@ -283,7 +283,7 @@ onBeforeUnmount(() => {
       <div class="home-hero-visual">
         <div class="home-carousel">
           <button class="carousel-control prev" type="button" aria-label="Previous slide" @click="previousSlide">
-            <span>‹</span>
+            <span aria-hidden="true">›</span>
           </button>
           <img
             class="home-hero-image"
@@ -295,7 +295,7 @@ onBeforeUnmount(() => {
             <h3>{{ activeHeroSlide.eyebrow }}</h3>
           </div>
           <button class="carousel-control next" type="button" aria-label="Next slide" @click="nextSlide">
-            <span>›</span>
+            <span aria-hidden="true">›</span>
           </button>
         </div>
 
