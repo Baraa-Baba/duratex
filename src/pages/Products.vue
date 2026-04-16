@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, ref, watch } from 'vue'
+import { computed, nextTick, ref, watch } from 'vue'
 import products from '../data/products.json'
 
 const catalogUrl = '/catalog.pdf'
@@ -71,6 +71,15 @@ const goToPage = (page: number) => {
   if (page < 1 || page > totalPages.value) return
   currentPage.value = page
 }
+
+watch(
+  paginatedProducts,
+  async () => {
+    await nextTick()
+    window.dispatchEvent(new Event('reveal:update'))
+  },
+  { flush: 'post' }
+)
 </script>
 
 <template>

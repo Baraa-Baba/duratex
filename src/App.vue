@@ -40,6 +40,7 @@ onMounted(async () => {
   window.addEventListener('scroll', revealHandler, { passive: true })
   window.addEventListener('resize', revealHandler)
   window.addEventListener('orientationchange', revealHandler)
+  window.addEventListener('reveal:update', revealHandler)
 
   updateReveals()
   window.setTimeout(updateReveals, 100)
@@ -63,6 +64,7 @@ onBeforeUnmount(() => {
     window.removeEventListener('scroll', revealHandler)
     window.removeEventListener('resize', revealHandler)
     window.removeEventListener('orientationchange', revealHandler)
+    window.removeEventListener('reveal:update', revealHandler)
   }
 
   if (whatsappTimer) {
