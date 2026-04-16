@@ -65,7 +65,7 @@ onBeforeUnmount(() => {
     <header class="site-header">
       <div class="container nav-shell">
         <RouterLink class="logo" to="/" aria-label="Duratex Middle East home">
-          <img src="/logoduratex.svg" alt="Duratex Middle East" />
+          <img src="/logoduratex.png" alt="Duratex Middle East" />
         </RouterLink>
         <nav class="nav-links" aria-label="Primary">
           <RouterLink to="/">Home</RouterLink>
