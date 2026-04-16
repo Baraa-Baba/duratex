@@ -25,8 +25,8 @@ onMounted(() => {
     <div class="container contact-grid">
       <div class="contact-card reveal" style="--delay: 0.08s">
         <h2>Dubai Headquarters</h2>
-        <p>DUBAI COMERCITY UMM RAMOOL 
-11 17th St – BUILDING B2, Umm Ramool – DUBAI-UAE Office 1099.</p>
+        <p>DUBAI COMMERCITY UMM RAMOOL 
+    11 17th St – BUILDING B2, Floor 1, Umm Ramool – DUBAI-UAE Office 1099.</p>
         <p class="contact-email">
           Email:
         </p>
