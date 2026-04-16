@@ -34,6 +34,12 @@ onMounted(() => {
         <p class="contact-email">
          <a href="mailto:info@duratex.co">info@duratex.co</a>
          </p>
+        <p class="contact-email">
+          Phone:
+        </p>
+        <p class="contact-email">
+          <a href="tel:+971545981975">+971 54 598 1975</a>
+        </p>
       </div>
 
       <div class="contact-card reveal" style="--delay: 0.12s">
