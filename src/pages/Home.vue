@@ -406,7 +406,7 @@ onBeforeUnmount(() => {
           structural stability on straight spans. For projects with stricter constraints,
           MDF Fire and Ultra Premium cover the safety and moisture scenarios.
         </p>
-        <RouterLink class="button" to="/contact">Ask for specification support</RouterLink>
+        <RouterLink class="button" to="/contact">Contact</RouterLink>
       </div>
       <div class="compare-points compare-points-redesign">
         <div>
@@ -448,8 +448,7 @@ onBeforeUnmount(() => {
           Share use-case, moisture exposure, and machining requirements. Our team maps the board,
           finish, and pattern combination clearly.
         </p>
-        <RouterLink class="text-link" to="/contact">Talk to Duratex technical team</RouterLink>
-      </article>
+       </article>
     </div>
   </section>
  
@@ -464,13 +463,9 @@ onBeforeUnmount(() => {
         </p>
       </div>
       <div class="cta-panel-actions">
-        <RouterLink class="button" to="/contact">Start a project conversation</RouterLink>
         <RouterLink class="button ghost" to="/products">View full product range</RouterLink>
-      </div>
-      <div class="cta-panel-note">
-        <span>Fast track:</span>
-        <p>Share drawings, BOQ, or mood references and we will reply with a focused recommendation.</p>
-      </div>
+        <RouterLink class="button" to="/contact">Start a project conversation</RouterLink>
+      </div> 
     </div>
   </section>
 </template>
