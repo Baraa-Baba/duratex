@@ -2,749 +2,1386 @@
   {
     "name": "Astral Blue",
     "slug": "azul-astral",
-    "image": "/products/azul-astral.jpg",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Ambiente_Azul_Astral_590x370px_212x162_af31c78f6e.jpg",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Ambiente_Azul_Astral_2000px_jpg_83aab1f1ea.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Padrao_Azul_Astral_2000px_jpg_32a1bfb0d2.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Mood_Azul_Astral_Objetos_2000px_jpg_37348614fb.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_04e1d4cc1c.webp"
+    ],
     "category": "Velluto Line",
     "description": "It sends good energy, depending on the desires imposed by challenging moments, its blue tone exudes tranquility and encourages us to live. An invitation to let yourself be involved, immersed, touching the light and infinite blue."
   },
   {
     "name": "Diamond White",
     "slug": "branco-diamante-acetinatta",
-    "image": "/products/branco-diamante-acetinatta.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Ambientes_590x370_11_212x162_png_3de21cc9a4.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/05_Closet_Branco_Diamante_Verde_Floresta_Jequitiba_Rosa_Final_1_scaled_jpg_c002e32027.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Acetinatta_Branco_Diamante_1_50x1_50m_scaled_jpg_221247a037.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BRANCO_DIAMANTE_01_scaled_jpg_11965c6ed8.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_d1da7c179d.webp"
+    ],
     "category": "Acetinatta Line",
     "description": "Pure white, an illuminating tone that brings calm and concentration. The lightness of the tone opens up space, brings peace, cleans, and also broadens our view of the surrounding elements."
   },
   {
     "name": "Carvalho Dian",
     "slug": "carvalho-dian",
-    "image": "/products/carvalho-dian.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Carvalho_Dian_Ambiente590x370_212x162_png_90b57fe1d0.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Prisma_Carvalho_Dian_Essencial_Pinole_You_Calacata_Gold_jun23_a510fd62aa.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Carvalho_Dian_Padrao590x370_png_1b2fe88ca0.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_590x370_9080c796a0.jpg"
+    ],
     "category": "Prism Line",
     "description": "The warm touch of its color allows Carvalho Dian to combine colors and shapes without ceasing to be welcoming. Its subtle design stands out due to its familiar appearance.?"
   },
   {
     "name": "Malva Carvalho",
     "slug": "carvalho-malva",
-    "image": "/products/carvalho-malva.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/CARVALHO_MALVA_copiar_212x162_png_c2cdf0cefa.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Ultra_Premium_Design_Carvalho_Malva_Velluto_Quartzo_Bienna_Trama_Gianduia_DF_City_Brooklin_jan24_1_png_7a9f31fec9.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Design_Carvalho_Malva_275x185m_scaled_jpg_ae7f2a6b6b.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/CARVALHO_MALVA_1_png_b15c5649a9.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Ultra_Premium590x370_2_png_8de05ad9a4.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_Prancheta_1_1_590x370_e0ca5bb03e.jpg"
+    ],
     "category": "Design Line",
     "description": "With light and wooden tones, the pattern presents a soft relief in the grains and knots, creating a texture that perfectly reproduces the naturalness of the wood, highlighting the beauty and design of the furniture.?"
   },
   {
     "name": "Fossil Gray",
     "slug": "cinza-fossil",
-    "image": "/products/cinza-fossil.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Cinza_Fossil_590x370_1_212x162_png_0098ba7503.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Cinza_Fossil_849c7d72a7.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Cinza_Fossil590x370_ec77a1fbdf.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Velluto_Cinza_Fossil_Conceito_Basalto_Trama_Aurora_jan23_scaled_jpg_0e6122d2f6.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_b3d488d86e.webp"
+    ],
     "category": "Velluto Line",
     "description": "Neutral color with a warm background, welcoming while evoking elegance. Easy to combine, and can be the highlight, as well as the detail that complements it."
   },
   {
     "name": "Oasis",
     "slug": "oasis",
-    "image": "/products/oasis.jpg",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Ambiente_Oasis_590x370px_212x162_26172fdba1.jpg",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Ambiente_Oasis_2000px_bf6d0828bf.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Padrao_Oasis_2000px_12ba3f7da8.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Mood_Oasis_Objetos_2000px_5efc0dbdae.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_5633b5882b.webp"
+    ],
     "category": "Woody",
     "description": "Promotes a return to the essentials, to good energy. Making moments to enjoy naturally more tangible. It is an invitation to contemplation and connection with the primordial."
   },
   {
     "name": "Solar Ocher",
     "slug": "ocre-solar",
-    "image": "/products/ocre-solar.jpg",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Ambiente_Ocre_Solar_590x370px_212x162_fe81660e0a.jpg",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Ambiente_Ocre_Solar_2000px_scaled_c6b2a2683a.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Padrao_Ocre_Solar_2000px_14f2be6684.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Mood_Ocre_Solar_Objetos_2000px_acbbcc7c35.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_985fe6fa08.webp"
+    ],
     "category": "Velluto Line",
     "description": "It promotes an invigorating effect, just like the sunrise and sunset, magical moments that move such a force capable of energizing in a matter of minutes."
   },
   {
     "name": "Soft Off-White",
     "slug": "off-white-suave",
-    "image": "/products/off-white-suave.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/OFF_WHITE_SUAVE_2_copiar_1_212x162_png_93c4c0ce02.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Sense_Off_White_Suave_Design_Nogueira_Florida_Conceito_Bolero_Velluto_Nazca_DF_Unique_Nogueira_Florida_jan24_png_dad9c3be82.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/VELLUTO_OFF_WHITE_copiar_1_0bea13ea62.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/OFF_WHITE_SUAVE_2_png_605557d210.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_Prancheta_1_590x370_cdea3dcda0.jpg"
+    ],
     "category": "Sense Line",
     "description": "Warm Off-White tone that fits any style. For timeless and unique projects."
   },
   {
     "name": "Straw",
     "slug": "palha",
-    "image": "/products/palha.jpg",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Ambiente_Palha_590x370px_212x162_6c03da324f.jpg",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Ambiente_Palha_2000px_fe633fd935.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Padrao_Palha_2000px_29a7971b68.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Mood_Palha_Objetos_2000px_2d54e043e1.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_a997e81784.webp"
+    ],
     "category": "Plot Line",
     "description": "Natural and fresh, Palha brings with it an artisanal, romantic and timeless feel. It provides lightness and neutrality wherever it is present, offering an immeasurable range of possibilities."
   },
   {
     "name": "Forest Green",
     "slug": "verde-floresta",
-    "image": "/products/verde-floresta.jpg",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Ambiente_Verde_Floresta_590x370px_212x162_2d4818aaa3.jpg",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Ambiente_Verde_Floresta_2000px_jpg_d260da7df1.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Padrao_Verde_Floresta_2000px_jpg_a5d3d9e276.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Mood_Verde_Floresta_Objetos_2000px_jpg_fc36628cd5.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_cf841e8a55.webp"
+    ],
     "category": "Velluto Line",
     "description": "It reminds us of shades of vegetation, representing the exuberance of outdoor life. It offers self-confidence, represents the contact we desire with nature, with ourselves and with a greater purpose."
   },
   {
     "name": "Sandstone",
     "slug": "arenito",
-    "image": "/products/arenito.jpg",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/07_Sala_Ultramarino_Arenito_e_Capad_C3_B3cia_507x375px_212x162_a14465d913.jpg",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/07_Sala_Ultramarino_Arenito_e_Capad_C3_B3cia_842x533px_590x370_c73e2a27b5.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Arenito2_842x533px_590x370_7550513bb5.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/arenito_gobi_perola_urbana_Altura_2160px_scaled_jpg_757a810cae.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_d5ef180720.webp"
+    ],
     "category": "Concept Line",
     "description": "Moving away from traditional stone structures such as marble and granite, Sandstone brings something new to the stone collection. Based on a sedimentary rock where it is possible to see the passage of time with the accumulation of layers of small grains. Sandstone is a pattern that, with its neutral structure and color, allows for a wide variety of combinations, highlighting unicolor and wooden patterns of different tones."
   },
   {
     "name": "Aurora",
     "slug": "aurora",
-    "image": "/products/aurora.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_aurora_212x162_png_a25d8d501e.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Aurora_Trama_3110x2160px_scaled_jpg_2f8dd55581.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/linha_trama_padrao_aurora_842x533_359f46534a.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/aurora_carvalho_eterno_sirena_Altura_2160px_scaled_jpg_d82a4805b7.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_9ed396a8ff.webp"
+    ],
     "category": "Plot Line",
     "description": "The aurora pattern was inspired by the optical phenomenon composed of a glow observed in the night skies in polar regions. Its slightly grayish tone brings the subtlety of white with something more to furniture and environments with the pattern."
   },
   {
     "name": "White Diamond - Cristallo Line",
     "slug": "branco-diamante-linha-cristallo",
-    "image": "/products/branco-diamante-linha-cristallo.jpg",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/linha_cristallo_ambiente_branco_diamante_507x375_212x162_33feec405d.jpg",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/cristallo_ambiente_branco_diamante_976x468_0afd39af80.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/cristallo_padrao_branco_diamante_976x468_cdf251c542.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_d830783f2c.webp"
+    ],
     "category": "Cristallo Line",
     "description": "The Diamond White MDF panel brings refinement and sophistication to the furniture. This pattern is associated with calm, cleanliness and other positive connotations."
   },
   {
     "name": "Crystal",
     "slug": "cristal",
-    "image": "/products/cristal.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/590x370_cristal_212x162_png_e41e81c5e8.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/2160x1620_cristal_png_f54ca4e1f7.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/original_padrao_cristal_976x468_40168d7b9b.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/cristal_carvalho_eterno_sirena_Altura_2160px_scaled_jpg_d030661b9a.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_a5a000bebd.webp"
+    ],
     "category": "Original Line",
     "description": "Its slightly grayish tone brings the subtlety of white with something more to your furniture and environments."
   },
   {
     "name": "Silver",
     "slug": "prata",
-    "image": "/products/prata.jpg",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/linha_essencial_ambiente_prata_507x375_212x162_f79ffffe18.jpg",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/ambiente_essencial_prata_976x468_673c444743.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/padrao_essencial_prata_976x468_c880dc2762.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/prata_thassos_eclipse_Altura_2160px_scaled_jpg_ea0adceecd.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_78f7f26871.webp"
+    ],
     "category": "Essential Line",
     "description": "It highlights the trend of metallic colors in carpentry and can be used in various compositions, bringing life and elegance to sober tones, enhancing the neutrality of the style."
   },
   {
     "name": "Thassos",
     "slug": "thassos",
-    "image": "/products/thassos.jpg",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/linha_essencial_ambiente_thassos_507x375_162x162_4d2c80c80e.jpg",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/ambiente_essencial_thassos_976x468_82ed5179aa.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/padrao_essencial_thassos_976x468_e07122cfa6.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/thassos_nobile_metropole_Altura_2160px_scaled_jpg_c26de78a7a.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_340847c445.webp"
+    ],
     "category": "Essential Line",
     "description": "It has a structure reminiscent of white marble with grayish veins. The pattern will also be released in the Ultra Premium MDF version."
   },
   {
     "name": "White Diamond - Essential Line",
     "slug": "branco-diamante-linha-essencial",
-    "image": "/products/branco-diamante-linha-essencial.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_branco_essencial_nova_162x162_png_ccedb4de5b.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_branco_essencial_nova_png_7ed06a4027.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/essencial_padrao_branco_diamante_976x468_jpg_437c26f079.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/branco_diamante_metropole_nobile_Altura_2160px_scaled_jpg_5a21527449.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_0e9eb4bf75.webp"
+    ],
     "category": "Essential Line",
     "description": "White Diamond brings refinement and sophistication to furniture. This pattern is associated with calm, cleanliness and other positive connotations."
   },
   {
     "name": "White Diamond - Trama Line",
     "slug": "branco-diamante-linha-trama",
-    "image": "/products/branco-diamante-linha-trama.jpg",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/linha_trama_ambiente_branco_diamante_507x375_212x162_4be6377a57.jpg",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/trama_ambiente_branco_diamante_976x468_1106f178ac.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/trama_padrao_branco_diamante_976x468_jpg_326c765417.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_901cde2900.webp"
+    ],
     "category": "Plot Line",
     "description": "White Diamond brings refinement and sophistication to furniture. This pattern is associated with calm, cleanliness and other positive connotations."
   },
   {
     "name": "Sacred Gray",
     "slug": "cinza-sagrado",
-    "image": "/products/cinza-sagrado.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_cinza_sagrado_212x162_png_18d36f0231.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_cinza_sagrado_png_dcb15b76ee.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/2160x1620_cinza_sagrado_cristallo_jpg_76e1585f47.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/cinza_sagrado_cristallo_thassos_croma_Altura_2160px_scaled_jpg_2fbbbf1fc0.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_91bc9fb800.webp"
+    ],
     "category": "Cristallo Line",
     "description": "The high-gloss version of Sacred Gray brings even more elegance to any environment. It offers a striking combination alongside steel, creating an elegant and original environment."
   },
   {
     "name": "Sacred Gray - Essential Line",
     "slug": "cinza-sagrado-linha-essencial",
-    "image": "/products/cinza-sagrado-linha-essencial.jpg",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Cinza_Sagrado_Essencial_3026x2160px_162x162_3541ab2046.jpg",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Cinza_Sagrado_Essencial_3026x2160px_scaled_76a7912bfb.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/cinza_sagrado_padrao_essencial_976x468_1_c4f0208c0c.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/cinza_sagrado_essencial_maranta_noce_amendoa_Altura_2160px_scaled_jpg_2f572c309c.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_995ff8bf9d.webp"
+    ],
     "category": "Essential Line",
     "description": "It offers welcome and transforms the environment into an invitation to well-being."
   },
   {
     "name": "Graphite",
     "slug": "grafite-mdf-linha-trama",
-    "image": "/products/grafite-mdf-linha-trama.jpg",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/trama_ambiente_grafite_976x468_212x162_ef288bd62f.jpg",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/trama_ambiente_grafite_976x468_9d5e633e05.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/trama_padrao_grafite_976x468_094cff61d9.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/grafite_carvalho_luar_hong_kong_Altura_2160px_scaled_65b2ff29f1.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_36c292fdb6.webp"
+    ],
     "category": "Plot Line",
     "description": "Timeless unicolor pattern that goes well with all other MDF patterns. Its unique texture recalls the delicate touch of the fabric and enhances furniture pieces with impeccable design and finishes."
   },
   {
     "name": "Opal",
     "slug": "opala",
-    "image": "/products/opala.jpg",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/linha_cristallo_ambiente_opala_507x375_212x162_f68c882594.jpg",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/opala_ambiente_cristallo_976x468_1_jpg_7776520450.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/opala_padrao_cristallo_976x468_1_jpg_53af4ab3c3.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/opala_arenito_sirena_Altura_2160px_scaled_jpg_effcc20693.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_a860b57044.webp"
+    ],
     "category": "Cristallo Line",
     "description": "Inspired by the stone that bears the same name, the MDF Opala panel has a light color, capable of brightening up any environment."
   },
   {
     "name": "Portoro",
     "slug": "portoro",
-    "image": "/products/portoro.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_portoro_162x162_png_9c556b3c8b.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_portoro_png_8df612f6e3.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/padrao_essencial_portoro_976x468_7b14591a45.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/portoro_carvalho_luar_croma_Altura_2160px_scaled_jpg_dee4dab51f.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_cbe1705e51.webp"
+    ],
     "category": "Essential Line",
     "description": "Characterized by a satin texture and soft shine, the panel features Ultra Premium MDF substrate, a pioneering product in its category, which offers superior resistance to humidity."
   },
   {
     "name": "Natural Gianduja",
     "slug": "gianduia-natural",
-    "image": "/products/gianduia-natural.png",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Design_sem_nome_4_212x162_6be984b742.png",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Gianduia_Natural_590x370_1_1_png_ca616ec064.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Padrao_Gianduia_Natural590x370_43fa5d8e08.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Velluto_Gianduia_Natural_Essencial_Wood_Cumaru_Raiz_Trama_Palha_jan23_scaled_jpg_02a811e70c.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_633c40e28f.jpg"
+    ],
     "category": "Velluto Line",
     "description": "From the alchemy of flavors, a refined, light and original feeling. Versatile shade, which welcomes and warms up combinations."
   },
   {
     "name": "Cayenne Walnut",
     "slug": "nogueira-caiena",
-    "image": "/products/nogueira-caiena.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_caiena_212x162_png_8f213183be.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_caiena_png_c46a9035b5.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/nogueira_caiena_padrao_design_976x468_1_jpg_0e294caf4e.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/nogueira_caiena_arenito_mint_Altura_2160px_scaled_jpg_823c5dd581.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_7a207dd2d0.webp"
+    ],
     "category": "Design Line",
     "description": "It seeks to highlight the naturalness of the reddish wood, with nuances of color in the cathedrals."
   },
   {
     "name": "Black - Cristallo Line",
     "slug": "preto",
-    "image": "/products/preto.jpg",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/linha_cristallo_ambiente_preto_507x375_212x162_4ea20967f3.jpg",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/cristallo_ambiente_preto_976x468_667731fffe.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/cristallo_padrao_preto_976x468_c1402b8348.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_b36b249ec0.webp"
+    ],
     "category": "Cristallo Line",
     "description": "The Black Standard was developed based on international trends. In line with the characteristics of the Cristallo line, this MDF pattern perfectly reflects the delicate touch of glass. Its color allows it to be combined with a wide variety of patterns."
   },
   {
     "name": "Almond Rustica",
     "slug": "amendola-rustica",
-    "image": "/products/amendola-rustica.jpg",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/linha_duna_ambiente_amendola_rustica_507x375_212x162_c7acc8f318.jpg",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Amendola_Rustica_Duna_2880x2160x_scaled_jpg_78ea07b87a.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/duna_padrao_amendola_rustica_976x468_jpg_eb8b714f94.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/amendola_rustica_lunar_lana_Altura_2160px_scaled_jpg_5250566207.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_58bdcd5f1b.webp"
+    ],
     "category": "Prism Line",
     "description": "It seeks to highlight the naturalness of the reddish wood, with nuances of color in the cathedrals."
   },
   {
     "name": "Cumaru Root",
     "slug": "cumaru",
-    "image": "/products/cumaru.jpg",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/09_Sala_Cumaru_507x375px_212x162_b821e4ad4d.jpg",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/09_Sala_Cumaru_842x533px_590x370_fe34918caa.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Cumaru_alta_resolucao_1_scaled_f534505586.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/cumaru_raiz_mineral_dourado_gobi_Altura_2160px_scaled_bfb2b085c2.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_b4c2cba86a.webp"
+    ],
     "category": "Woody",
     "description": "Cumaru is a beautiful representative of high quality Brazilian wood. It has a burnt honey tone and its pores have unique characteristics. Its veins have a delicate organic movement different from more traditional wooden structures. The Essencial Wood finish incorporates the touch of natural wood into the pattern, bringing more authenticity to it."
   },
   {
     "name": "Pure Gianduja",
     "slug": "gianduia-puro",
-    "image": "/products/gianduia-puro.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/GIANDUIA_2_copiar_1_212x162_png_b2b45fe180.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Sense_Gianduia_Puro_Essencial_Blush_Velluto_Moss_DF_Spot_Carvalho_Mel_jan24_png_0ed2b4b45f.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/GIANDUIA_copiar_1_b69be6cc44.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/GIANDUIA_PURO_1_png_aab073a5b6.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_Prancheta_1_590x370_ddd3733593.jpg"
+    ],
     "category": "Sense Line",
     "description": "To compose with creativity, creating a dynamic look that enhances the furniture and offers a refined finish."
   },
   {
     "name": "Larnaca",
     "slug": "larnaca-linha-prisma",
-    "image": "/products/larnaca-linha-prisma.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_larnaca_212x162_png_94edcc95e1.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_larnaca_png_53fc5fedbc.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/prisma_padrao_larnaca_976x468_jpg_be39f62569.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/larnaca_ultramarino_prata_Altura_2160px_scaled_jpg_5909550c2f.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_10d688374c.webp"
+    ],
     "category": "Prism Line",
     "description": "With the charms of the Middle East, this pattern is reminiscent of the lush places of Larnaca, a beautiful city on the island of Cyprus."
   },
   {
     "name": "Absolute Moss",
     "slug": "moss-absoluto",
-    "image": "/products/moss-absoluto.png",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Moss_Absoluto_Design_Moss_Velluto_Downtoen_Sense_Nogueria_Thar_Design_DF_Santarem_Nativa_out24_212x162_413cdecfdb.png",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Moss_Absoluto_Design_Moss_Velluto_Downtoen_Sense_Nogueria_Thar_Design_DF_Santarem_Nativa_out24_71a11a6fda.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/moss_absoluto_1_7ccfa8d71f.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/moss_absoluto_45587d5aae.png"
+    ],
     "category": "Design Line",
     "description": "A colorful wood in a sophisticated tone, which brings a touch of personality to the environment. The combination of its calm and refreshing tone with the natural texture of the wood creates a feeling of well-being, providing an unexpected and welcoming look at the same time. Bringing modernity and nostalgia in the right measure."
   },
   {
     "name": "Florida Walnut",
     "slug": "nogueira-florida",
-    "image": "/products/nogueira-florida.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Nogueira_Florida_590x370_1_1_212x162_png_93737c79d3.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Nogueira_Florida_590x370_1_1_png_03948b6ca0.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Padrao_Nogueira_Florida590x370_png_36de87c5eb.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Design_Nogueira_Florida_Essencial_Pinole_Trama_Palha_jan23_scaled_jpg_d9dd9630f9.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_6d20ca1610.jpg"
+    ],
     "category": "Design Line",
     "description": "With cathedral designs with a more rustic appearance and modern wood tones, it leaves the spaces with a more inviting and calm atmosphere."
   },
   {
     "name": "Natural Iron Pau",
     "slug": "1-pau-ferro-natural-linha-cristallo",
-    "image": "/products/1-pau-ferro-natural-linha-cristallo.jpg",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/10_Sala_Pau_ferro_Natural_Thassos_e_Parma_507x375px_212x162_0afddec2f4.jpg",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Ambiente_Pau_Ferro_Natural_Linha_Cristallo_Alta_jpg_2611ea9986.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Pau_Ferro_Natural2_842x533px_590x370_2380a407a0.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/pau_ferro_natural_criatallo_perola_urbana_gobi_Altura_2160px_scaled_jpg_57890c7340.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_b7a97a35e6.webp"
+    ],
     "category": "Cristallo Line",
     "description": "Standard that integrates the Brazilian wood portfolio. Widely used in the 70s in furniture, it is traditional and nostalgic wood. It can give off a vintage and elegant look, especially when combined with the high-gloss finish of the Cristallo Line. This wood has a striking personality with marked cathedrals and great nuances of color, predominating a warm color that brings comfort."
   },
   {
     "name": "Bienna Quartz",
     "slug": "quartzo-bienna",
-    "image": "/products/quartzo-bienna.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Quartzo_Bienna_590x370_1_1_162x162_png_e3dfdce69f.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Quartzo_Bienna_png_23001f6b6e.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Padrao_Quartzo_Bienna590x370_png_1c6e3087f8.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Velluto_Quartzo_Bienna_Essencial_Cinza_Sagrado_Trama_Aurora_jan23_scaled_jpg_218f0d3827.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_85251e55d6.webp"
+    ],
     "category": "Velluto Line",
     "description": "Colors, veins and design that surprise with their naturalness, enable authentic projects with personality."
   },
   {
     "name": "Carvalho Avela",
     "slug": "carvalho-avela",
-    "image": "/products/carvalho-avela.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/590x370_carvalho_avela_212x162_png_1b92edb640.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/2160x1620_carvalho_avela_jpg_6e77a3564b.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/original_padrao_carvalho_avela_976x468_d7a56a0ed1.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/carvalho_avela_portoro_prata_Altura_2160px_scaled_jpg_ddbbc44d42.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_6a252a0eb3.webp"
+    ],
     "category": "Design Line",
     "description": "With a warmer tone, Avelã Oak shows the nuances of natural wood in an elegant way, with a delicate rusticity, simplicity and connection with nature. An MDF panel capable of bringing more beauty and sophistication to the environment."
   },
   {
     "name": "Carvalho Hanover",
     "slug": "carvalho-hanover-linha-design",
-    "image": "/products/carvalho-hanover-linha-design.png",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/listagem_ambiente_hanover_2adf8489b7.png",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_hanover_png_6412b87fce.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Linha_Design_Carvalho_Hanover_Alta_jpg_ce74ef6181.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/carvalho_hanover_brise_eclipse_Altura_2160px_scaled_jpg_536738b91f.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_e4f349e79f.webp"
+    ],
     "category": "Design Line",
     "description": "Suitable for environments with creative and sophisticated styles. This MDF panel has cathedrals and a burnt honey tone. This creates a feeling of movement in the environment."
   },
   {
     "name": "Carvalho Munich",
     "slug": "carvalho-munique-linha-design",
-    "image": "/products/carvalho-munique-linha-design.jpg",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/linha_design_ambiente_carvalho_munique_507x375_212x162_945859cb67.jpg",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/linha_design_ambiente_carvalho_munique_842x533_590x370_7bfe2ddad7.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/linha_disng_padrao_carvalho_munique_842x533_590x370_2a3d8e730e.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/carvalho_munique_thassos_opala_Altura_2160px_scaled_jpg_5a49012718.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_8bbe48d20b.webp"
+    ],
     "category": "Design Line",
     "description": "With a synchronized finish and striking, slightly reddish tones, the MDF Carvalho Munich panel has cathedrals in its design that bring feelings of comfort and sophistication to the space."
   },
   {
     "name": "Pure Freijo",
     "slug": "freijo-puro",
-    "image": "/products/freijo-puro.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_freijo_puro_162x162_png_3bb783dee9.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_freijo_puro_png_a3ebaff6c7.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/2160x1620_freijo_puro_jpg_4549287836.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/freijo_puro_hong_kong_verde_real_Altura_2160px_scaled_jpg_52ab554492.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_33c68c7aba.webp"
+    ],
     "category": "Woody",
     "description": "With an almond tone and touches of gold in the cathedrals, it brings the beauty and texture of natural wood to the environment, creating an atmosphere that warms and calms."
   },
   {
     "name": "Noce Almond",
     "slug": "noce-amendoa",
-    "image": "/products/noce-amendoa.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_noce_amendoa_212x162_png_3b9f8f608d.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_noce_amendoa_png_f5d45318a9.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/essencial_padrao_noce_amendoa_976x468_jpg_2325086823.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/noce_amendoa_portoro_eclipse_Altura_2160px_scaled_jpg_25b4be0f04.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_bc2cf4eeab.webp"
+    ],
     "category": "Essential Line",
     "description": "Noce Amêndoa has an intermediate tone. Brings sophistication and refinement to the environment. Its waxed texture provides a new environment for your home."
   },
   {
     "name": "Nogueira Thar",
     "slug": "nogueira-thar",
-    "image": "/products/nogueira-thar.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_nogueira_thar_212x162_png_34a2ddaf4d.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_nogueira_thar_png_5cf5153517.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/2160x1620_nogueria_thar_design_jpg_d159df0a57.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/nogueira_thar_eclipse_verde_real_Altura_2160px_scaled_jpg_136a96c114.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_27658cde91.webp"
+    ],
     "category": "Design Line",
     "description": "Contains the Scandinavian influence that combines the warmth and balance of light wood, offering spaciousness to environments"
   },
   {
     "name": "Rock",
     "slug": "rock",
-    "image": "/products/rock.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/rock_ambiente_590x370_1_162x162_png_aa913741bd.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/rock_ambiente_590x370_1_png_81767c71f1.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/rock_padrao_590x370_1_1_png_bd656c5b7f.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Escolha_Projeto_You_590x370_1_1_png_6c9c7aa09e.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_a80626aa11.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Ultra_Premium590x370_2_png_762be5cd72.webp"
+    ],
     "category": "Marble/Stone",
     "description": "Inspired by the most imposing Italian marbles, a pattern of fluid shapes and deep and mysterious colors.?"
   },
   {
     "name": "Carvalho Batur",
     "slug": "carvalho-batur",
-    "image": "/products/carvalho-batur.png",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/listagem_ambiente_batur_b4d7662475.png",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_batur_png_4f66eed382.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/carvalho_batur_padrao_essencial_wood_976x468_1_1_jpg_f3357165f6.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/carvalho_batur_artesanal_verde_real_Altura_2160px_scaled_jpg_311fda1dcb.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_cdf732d1be.webp"
+    ],
     "category": "Woody",
     "description": "It reinforces the protagonism of the interiors, providing sophistication and warmth for the consumer who also observes the finish of the furniture."
   },
   {
     "name": "Carvalho Berlin",
     "slug": "carvalho-berlin",
-    "image": "/products/carvalho-berlin.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/590x370_berlin_212x162_jpg_0566fc5b22.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/2160x1620_berlin_jpg_ee730b062d.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/design_padrao_carvalho_berlin_976x468_jpg_a101882741.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/carvalho_berlin_hong_kong_lana_Altura_2160px_scaled_jpg_0cf7fbbfe9.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_1d09023ef0.webp"
+    ],
     "category": "Design Line",
     "description": "Carvalho Berlin explores the elegance of fine wood in a light tone. It has a texture synchronized with the wood grain. An MDF panel that offers softness so that the design and color stand out, bringing more glamor to any project."
   },
   {
     "name": "Graphite",
     "slug": "grafite-acetinatta",
-    "image": "/products/grafite-acetinatta.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Ambientes_590x370_8_212x162_png_e8927d9ec0.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/09_Variacao_Branco_Diamante_e_Grafite_Final_scaled_jpg_3c5ed5716c.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/grafite_scaled_5c24910313.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/GRAFITE_01_scaled_jpg_aa33182554.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_9e10ce804a.webp"
+    ],
     "category": "Acetinatta Line",
     "description": "Natural material made from carbon, with a deep and neutral tone. Dark gray mineral that brings versatility to combinations."
   },
   {
     "name": "Noce Mare",
     "slug": "noce-mare",
-    "image": "/products/noce-mare.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_noce_mare_212x162_png_0a14fa1a2a.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_noce_mare_png_4771e1d636.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/essencial_padrao_noce_mare_976x468_jpg_e91703b56d.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/noce_mare_steel_arenito_Altura_2160px_scaled_jpg_355dac1fa1.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_a56d4c61a9.webp"
+    ],
     "category": "Essential Line",
     "description": "Delicate and with a pinkish tone, this MDF panel pattern reproduces the effect of waxed wood in its finish. Ideal for environments that require subtlety with personality."
   },
   {
     "name": "Egg",
     "slug": "ovo",
-    "image": "/products/ovo.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/590x370_ovo_212x162_jpg_38ab252946.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/2160x1620_ovo_jpg_7586321013.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/original_padrao_ovo_976x468_34bd49f0f3.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/ovo_carvalho_eterno_portoro_Altura_2160px_scaled_jpg_dfc4657681.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_6762d6c104.webp"
+    ],
     "category": "Original Line",
     "description": "The Egg pattern has a neutral tone and a warm tone. Its details are capable of transforming your environment in a subtle and discreet way."
   },
   {
     "name": "Riviera",
     "slug": "riviera",
-    "image": "/products/riviera.png",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_riviera_212x162_345d0d64af.png",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_riviera_3689d04ec8.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/cross_padrao_riviera_976x468_f42c6711bb.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/riviera_hong_kong_gobi_Altura_2160px_scaled_a748f3b7ba.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_43c8128b7c.webp"
+    ],
     "category": "Prism Line",
     "description": "Wood in its essence, highlighting the washed and soft tones, which look to the past for elements to create an environment that conveys sensations."
   },
   {
     "name": "Titanio - Trama Line",
     "slug": "titanio-linha-trama",
-    "image": "/products/titanio-linha-trama.jpg",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/linha_trama_ambiente_titanio_507x375_162x162_77193014c6.jpg",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/trama_ambiente_titanio_976x468_181430a61e.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/trama_padrao_titanio_976x468_jpg_c28665271c.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/titanio_trama_brise_tramato_Altura_2160px_scaled_jpg_f07b77d67a.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_ea27141405.webp"
+    ],
     "category": "Plot Line",
     "description": "Unicolor pattern that all wood needs to create harmonious environments. Its unique texture recalls the delicate touch of the fabric and enhances furniture pieces with impeccable design and finishes."
   },
   {
     "name": "Secret Blue",
     "slug": "azul-secreto",
-    "image": "/products/azul-secreto.jpg",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/linha_essencial_ambiente_azul_secreto_507x375_212x162_5d0aded96a.jpg",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/azul_secreto_ambiente_976x468_1_2187db4c1a.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/azul_secreto_padrao_essencial_976x468_1_ceaa648958.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/azul_secreto_carvalho_eterno_arenito_Altura_2160px_scaled_jpg_5ba2bb33f8.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_3e8913a528.webp"
+    ],
     "category": "Essential Line",
     "description": "It offers welcome and transforms the environment into an invitation to well-being."
   },
   {
     "name": "Gianduia - Cristallo Line",
     "slug": "gianduia-linha-cristallo",
-    "image": "/products/gianduia-linha-cristallo.jpg",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/linha_cristallo_ambiente_gianduia_507x375_212x162_071027d54b.jpg",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/cristallo_ambiente_gianduia_976x468_8a1f03cc28.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/cristallo_padrao_gianduia_976x468_71ea85e587.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/gianduia_cristallo_maranta_gobi_Altura_2160px_scaled_jpg_a4b73fbbc5.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_a9d16f9a7a.webp"
+    ],
     "category": "Cristallo Line",
     "description": "Pattern that brings inspiration from the warm gray tone and can be used to finish kitchen cabinets, for example."
   },
   {
     "name": "Gianduia - Trama Line",
     "slug": "gianduia-linha-trama",
-    "image": "/products/gianduia-linha-trama.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_gianduia_212x162_png_d5bad63e08.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_gianduia_png_9edd98d06c.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/trama_padrao_gianduia_976x468_jpg_14be1df772.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/gianduia_trama_carvalho_munique_verde_real_Altura_2160px_scaled_jpg_d25f690c83.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_509b665a35.webp"
+    ],
     "category": "Plot Line",
     "description": "It can be used with great creativity to create a dynamic look that enhances the furniture and offers a feeling of movement and sophistication."
   },
   {
     "name": "Mint",
     "slug": "mint",
-    "image": "/products/mint.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_mint_212x162_png_de9c73f79e.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_mint_png_933ae33d55.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/padrao_essencial_mint_976x468_0c468f2dc1.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/mint_carvalho_luar_portoro_Altura_2160px_scaled_jpg_4f9aa72089.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_e74f2c1ccc.webp"
+    ],
     "category": "Essential Line",
     "description": "Brings the lightness and delicacy of the light grayish green tone to coverings and furniture. The pattern's purpose is to offer freshness to environments, transforming the home into a true refuge."
   },
   {
     "name": "Urban Pearl",
     "slug": "perola-urbana",
-    "image": "/products/perola-urbana.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_perola_urbana_212x162_png_b382e3f751.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_perola_urbana_png_8bda941c65.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/perola_urbana_padrao_essencial_976x468_1_2bc657dfac.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/perola_urbana_amendola_rustica_ibiza_Altura_2160px_scaled_jpg_80f6c724c8.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_91773243c1.webp"
+    ],
     "category": "Essential Line",
     "description": "It highlights the trend of metallic colors in carpentry and can be used in various compositions, bringing life and elegance to sober tones, enhancing the neutrality of the style."
   },
   {
     "name": "Tartuffe",
     "slug": "tartufo-acetinatta",
-    "image": "/products/tartufo-acetinatta.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Ambientes_590x370_10_212x162_png_207f9dd45d.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/01_Cozinha_Tartufo_Oasis_e_Arenito_Final_scaled_jpg_f0be8c952f.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/tartufo_scaled_7304cdf8c6.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/TARTUFO_01_scaled_jpg_7be5b38c3b.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_7c5b6bfa66.webp"
+    ],
     "category": "Acetinatta Line",
     "description": "Earthy aromas, air of nature, dried fruits. Its tonality is welcoming and a delight for lovers of warm and cozy tones."
   },
   {
     "name": "Titanium - Cristallo Line",
     "slug": "titanio-linha-cristallo",
-    "image": "/products/titanio-linha-cristallo.jpg",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/linha_cristallo_ambiente_titanio_507x375_212x162_a6c6e39472.jpg",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/cristallo_ambiente_titanio_976x468_420d707e8c.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/cristallo_padrao_titanio_976x468_4390fe73fe.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/titanio_cristallo_verde_real_maranta_Altura_2160px_scaled_jpg_a5421e7d84.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_1b78ac4ae9.webp"
+    ],
     "category": "Cristallo Line",
     "description": "Titanium is a unicolor pattern that blends very well with wood. Ideal for composing harmonious environments."
   },
   {
     "name": "Artico White - Original Line",
     "slug": "branco-artico-linha-original",
-    "image": "/products/branco-artico-linha-original.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/590x370_branco_original_212x162_jpg_bde0c7ab37.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Branco_Artico_Original_3053x2160px_scaled_jpg_c8c7af55c4.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/original_padrao_branco_artico_976x468_585e522427.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_998c0d4400.webp"
+    ],
     "category": "Original Line",
     "description": "Arctic White can be compared to the hue of snow. It is the right choice for those who want a more conservative decoration."
   },
   {
     "name": "Arctic White - Trama Line",
     "slug": "branco",
-    "image": "/products/branco.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/590x370_branco_trama_212x162_jpg_ded967093d.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Branco_Artico_Trama_2880x2160px_scaled_jpg_57280ccdd6.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/linha_original_padrao_branco_artico_842x533_1_590x370_028607d1cb.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_e896f676bc.webp"
+    ],
     "category": "Plot Line",
     "description": "Arctic White can be compared to the hue of snow. It is the right choice for those who want a more conservative decoration."
   },
   {
     "name": "Black",
     "slug": "preto-acetinatta",
-    "image": "/products/preto-acetinatta.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Ambientes_590x370_9_212x162_png_d8395743bf.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/07_Cloffice_Branco_Diamante_Preto_e_Lunar_Final_scaled_jpg_58999d3832.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Acetinatta_Preto_1_50x1_50m_1_1_scaled_jpg_45f340bec4.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/PRETO_01_scaled_jpg_511be8c8bf.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_d80007831e.jpg"
+    ],
     "category": "Acetinatta Line",
     "description": "Neutral but powerful tone, brings a feeling of strength and protection. Black is always striking and brings elegance and personality to combinations."
   },
   {
     "name": "Black - Original Line",
     "slug": "preto-linha-original",
-    "image": "/products/preto-linha-original.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/590x370_Preto_Original_162x162_jpg_778a686148.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Preto_Original_2430x2160px_jpg_8774414ed9.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/original_padrao_preto_976x468_499dd1df1d.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/preto_thassos_prata_Altura_2160px_scaled_jpg_d743acec82.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_f7b73912f9.webp"
+    ],
     "category": "Original Line",
     "description": "The Black pattern is well suited to the most diverse projects in residential and corporate environments. Allows countless compositions with other patterns. The result is an elegant combination, ensuring the furniture has a feeling of movement and sophistication."
   },
   {
     "name": "Black - Weft Line",
     "slug": "preto-linha-trama",
-    "image": "/products/preto-linha-trama.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/590x370_Preto_Trama_212x162_jpg_82251bcc1f.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/2160x1620_Preto_Trama_jpg_ab5cfe0a02.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/trama_padrao_preto_976x468_jpg_2fcc766dce.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/preto_thassos_prata_Altura_2160px_scaled_jpg_517630b329.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_364f7062ed.webp"
+    ],
     "category": "Plot Line",
     "description": "A wildcard in decoration. Its color allows for countless compositions and the result is an elegant product. Ensuring the furniture has a feeling of movement and sophistication."
   },
   {
     "name": "Absolute",
     "slug": "absoluto",
-    "image": "/products/absoluto.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/S_Ambiente_Design_Absoluto_212x162_png_1966aa27fc.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Absoluto_Design_2778x2160px_scaled_jpg_f6b196476c.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Design_Absoluto_150x150m_scaled_jpg_b02f83c0f3.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Design_Absoluto_Brise_Cristallo_Croma_Altura2160px_3e28dae28a.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_f158576d98.webp"
+    ],
     "category": "Design Line",
-    "description": "For sober environments, which require welcoming and tranquility, the pattern contributes to the transformation of spaces, where time passes more slowly, blocking out the chaos of the outside world."
+    "description": "For sober environments, which call for welcome and tranquility, the pattern contributes to the transformation of spaces, where time passes more slowly, blocking out the chaos of the outside world."
   },
   {
     "name": "Deep Blue",
     "slug": "azul-profundo",
-    "image": "/products/azul-profundo.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/AZUL_PROFUNDO_1_212x162_png_1483feea23.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Essencial_Azul_Profundo_Essencial_Wood_Cumaru_Raiz_Conceito_Bolero_DF_New_Way_Nordica_jan24_1_c4abac6c7b.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/AZUL_PROFUNDO_3_88ca1fd38e.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/AZUL_PROFUNDO_4_png_c7956acc57.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_Prancheta_1_590x370_9cf94bd13e.jpg"
+    ],
     "category": "Essential Line",
     "description": "An intense but calming blue, it invites you to create striking environments with personality."
   },
   {
     "name": "Papyrus Beige",
     "slug": "bege-papiro",
-    "image": "/products/bege-papiro.png",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Bege_Papiro_Essencial_DF_Lille_New_Art_Nov12_final_212x162_e33e9bb874.png",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Essencial_Bege_Papiro_150x150m_Baixa_scaled_a6a4edbc15.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Bege_Papiro_Essencial_DF_Lille_New_Art_Nov12_final_590x370_e893c017f0.png"
+    ],
     "category": "Essential Line",
     "description": "Papyrus Beige expresses lightness as an essential state. Its warm tone creates a visual pause, where excess dissolves and the space breathes. Between matter and sensitivity, it establishes a silent base that welcomes new connections, balancing technology, affection and well-being."
   },
   {
     "name": "Birch",
     "slug": "betula",
-    "image": "/products/betula.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Thera_Betula_Essencial_Mint_jan24_12_212x162_png_23b3627669.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Thera_Betula_Essencial_Mint_jan24_png_3d495e46ba.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BETULA_copiar_1_png_03ca61e201.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BETULA_1_png_c21dc424d4.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_Prancheta_1_590x370_e40f715b70.jpg"
+    ],
     "category": "Thera Line",
     "description": "With refined shapes and designs, this pattern brings the beauty of plywood movements in a contemporary and conceptual way."
   },
   {
     "name": "blush",
     "slug": "blush",
-    "image": "/products/blush.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/BLUSH_copiar_1_212x162_png_a7981919aa.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Essencial_Blush_Thera_Rovere_Braga_DF_Unique_Hamburgo_jan24_png_84d404e980.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BLUSH_copiar_3_bbd1fa68fe.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BLUSH_1_png_1d9ede1ce6.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_Prancheta_1_590x370_fccb815ced.jpg"
+    ],
     "category": "Essential Line",
     "description": "Inspired by blush tones in makeup, it accentuates the beauty of spaces with originality for contemporary projects."
   },
   {
     "name": "Bossa",
     "slug": "bossa",
-    "image": "/products/bossa.png",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/You_Bossa_Acetinatta_Blush_Essencial_Riviera_Prisma_DF_Carvalho_Hanover_Studio_jan25_copiar_162x162_10338783ce.png",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/You_Bossa_Acetinatta_Blush_Essencial_Riviera_Prisma_DF_Carvalho_Hanover_Studio_jan25_copiar_fe7285b26b.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Bossa_274m_X184m_97e92abcb2.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BOSSA_DURATEX_YOU_1_5e8a968cd9.png"
+    ],
     "category": "General Collection",
     "description": "Inspired by the lightness and charm of bossa nova, this brick brings a relaxed and elegant atmosphere, with an artistic touch. Each piece is an invitation to create spaces with personality and softness, where color and movement harmonize in a delicate and engaging rhythm."
   },
   {
     "name": "Calacata Gold",
     "slug": "calacata-gold",
-    "image": "/products/calacata-gold.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Calataca_Gold_162x162_png_951d3dbd4e.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Calataca_Gold_png_fc7a435bc6.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Calataca_Gold_Padrao_png_84ee55a043.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Escolha_Projeto_You_590x370_1_1_png_1af89018ba.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Ultra_Premium590x370_2_png_7e46af6f3d.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_0b1b6f25f4.jpg"
+    ],
     "category": "Marble/Stone",
     "description": "The classic beauty of Calacata in a unique pattern with golden veins, bringing a refined touch to environments."
   },
   {
     "name": "Brazilian Layers",
     "slug": "camadas-brasileiras",
-    "image": "/products/camadas-brasileiras.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Camadas_Brasileiras_162x162_png_282363b6fd.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_You_Camadas_Brasileiras_Design_Nogueira_Caiena_abr23_png_ed3f583469.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/CAMADAS_BRASILEIRAS_ACETINATTA_png_7fb8283fa7.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Escolha_Projeto_You_590x370_1_png_88e50bc015.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Ultra_Premium590x370_2_png_147ba55a01.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_878bc7c225.jpg"
+    ],
     "category": "General Collection",
     "description": "A country with a lot of mixture, races, colors, contrasts and beliefs, the Brazilian Layers print summarizes our differences.? @jefersonbranco"
   },
   {
     "name": "Ribbed",
     "slug": "canelado",
-    "image": "/products/canelado.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Canelado_212x162_png_1850bc76eb.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_You_Canelado_Design_Absoluto_Velluto_Moss_abr23_2_8f1ba5c320.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/CANELADO_ACETINATTA_png_7eafb12347.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Escolha_Projeto_You_590x370_1_1_png_2753adefc8.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Ultra_Premium590x370_2_png_8d39250a33.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_92df5d333b.jpg"
+    ],
     "category": "General Collection",
     "description": "With a robust and industrial presence, this pattern features concrete with a three-dimensional ribbed effect, being versatile allowing combinations with unicolor patterns, creating a modern and contemporary look.?"
   },
   {
     "name": "Carvalho Brun",
     "slug": "carvalho-brun",
-    "image": "/products/carvalho-brun.png",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Carvalho_Brun_Thera_Hibisco_Essencial_DF_Nature_Nagoya_Out29_final_212x162_51e0ac2c58.png",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Thera_Carvalho_Brun_150x150m_Baixa_scaled_add6d5abb5.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Carvalho_Brun_Thera_Hibisco_Essencial_DF_Nature_Nagoya_Out29_final_scaled_ae19ae0d92.png"
+    ],
     "category": "Thera Line",
     "description": "With a warm brown tone and well-defined veins, Brun Oak reflects an intense and welcoming aesthetic. The golden pigment adds subtle shine and depth, creating elegant, intimate and contemporary environments."
   },
   {
     "name": "Carvalho Lir",
     "slug": "carvalho-lir",
-    "image": "/products/carvalho-lir.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Carvalho_Lir_Ambiente590x370_212x162_png_44e812bddb.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Carvalho_Lir_Ambiente590x370_png_39c36981b0.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Carvalho_Lir_Padrao590x370_png_c61529a065.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_590x370_187d8be714.jpg"
+    ],
     "category": "Prism Line",
     "description": "With a linen movement design with soft undulations in the wood grains, Lir Oak has a light and neutral tone, allowing combinations from the simplest to the most daring, without losing the touch of refinement.?"
   },
   {
     "name": "Chevron",
     "slug": "chevron",
-    "image": "/products/chevron.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Chevron_162x162_png_b06cfd7770.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_You_Chevron_Velluto_Nazca_Essencial_Wood_Carvalho_Avela_abr23_1_png_b5ccd05215.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/CHEVRON_ACETINATTA_png_5a89bed348.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Escolha_Projeto_You_590x370_1_1_png_485e9a6a45.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Ultra_Premium590x370_2_png_3f6e9d8c10.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_5696648d2c.jpg"
+    ],
     "category": "General Collection",
     "description": "With its characteristic layout, Chevron brings movement without losing the warm touch of wood, allowing simple or bold combinations without losing charm."
   },
   {
     "name": "Cosmos",
     "slug": "cosmos",
-    "image": "/products/cosmos.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Cosmos_162x162_png_2e7e977a9a.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_You_Cosmos_Essencial_Rosa_Glamour_abr23_1_5fcbeea1db.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/COSMOS_ACETINATTA_1_png_eb66f0c3fb.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Escolha_Projeto_You_590x370_1_1_png_07fed6f8c9.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Ultra_Premium590x370_2_png_9fefad97fd.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_3176be7c50.jpg"
+    ],
     "category": "General Collection",
     "description": "The beauty of the colors and movements of the materials that the Universe houses were what inspired us to create our collection for Duratex.? @guelarquitetos"
   },
   {
     "name": "Delicate",
     "slug": "delicate",
-    "image": "/products/delicate.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Delicate_162x162_png_9d72fd142e.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_You_Delicate_Essencial_Thassos_abr23_2_png_431654a8b2.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/DELICATE_ACETINATTA_1_png_0bbfc40050.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Escolha_Projeto_You_590x370_1_png_b82ce76517.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Ultra_Premium590x370_2_png_392a57a274.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_cc39a0b613.jpg"
+    ],
     "category": "General Collection",
     "description": "With delicate designs of leaves and flowers, this pattern explores industrial aesthetics in a unique way. The tones and overtones of the designs with a textured background reminiscent of burnt cement, inspire new possibilities.?"
   },
   {
     "name": "Downtown",
     "slug": "downtown",
-    "image": "/products/downtown.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/DOWNTOWN_SERRA_copiar_1_212x162_png_eca3f6d393.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Sense_Downtown_Acetinatta_Tartufo_Essencial_Noce_Amendoa_jan24_ee1daeec74.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/DOWNTOWN_SERRA_copiar_3_png_0c4acfa87b.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/DOWNTOWN_1_png_379df9842d.webp"
+    ],
     "category": "Sense Line",
     "description": "Inspired by the largest urban centers in the world, this cement brings new narratives to projects, from industrial to contemporary styles, it also becomes a “total look” option with Portinari’s Downtown porcelain tile."
   },
   {
     "name": "Dating",
     "slug": "encontros",
-    "image": "/products/encontros.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Encontros_162x162_png_0802c613bf.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Encontros_png_0387f72fc5.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/ENCONTROS_ACETINATTA_1_9119bb1b12.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Escolha_Projeto_You_590x370_1_png_6efe94acec.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Ultra_Premium590x370_2_png_05a9a37337.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_8d9c00e888.jpg"
+    ],
     "category": "General Collection",
     "description": "With curved lines that are not continuous, but with the lightness and fluidity we need and with meeting points that are stories! As Vinicius de Moraes said: \"Life is the art of encounter, although there are so many disagreements. @betti.arquitetura"
   },
   {
     "name": "Imperial Freijo",
     "slug": "freijo-imperial",
-    "image": "/products/freijo-imperial.png",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Freijo_Imperial_Thera_Gianduia_Natural_Velluto_Calacata_Gold_You_DF_Toledo_Unique_Out24_212x162_996741acbf.png",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Freijo_Imperial_Thera_Gianduia_Natural_Velluto_Calacata_Gold_You_DF_Toledo_Unique_Out24_ea3c3efd06.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/freijo_imperial_590x370px_150dpi_efc5ca4f63.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/freijo_imperial_86ccbbe008.png"
+    ],
     "category": "Thera Line",
     "description": "Combining the beauty and tradition of Freijó, the naturalness of the wood presents itself in an imposing way, renewing the environment with elegance. Its warm tone and soft texture welcome, transforming any space into a timeless and exquisite refuge."
   },
   {
     "name": "Galaxy",
     "slug": "galaxia",
-    "image": "/products/galaxia.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Galaxia_162x162_png_4e40b52f72.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_You_Galaxia_Acettinata_Preto_abr23_1_png_c6ff7d7426.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/GALAXIA_CRISTALLO_1_png_e7ba89ec00.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Escolha_Projeto_You_590x370_1_1_png_e26710c7e1.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Ultra_Premium590x370_2_png_01c92238c1.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_53f7621a0c.jpg"
+    ],
     "category": "General Collection",
     "description": "The beauty of the colors and movements of the materials that the Universe houses were what inspired us to create our collection for Duratex.? @guelarquitetos"
   },
   {
     "name": "Ginga with Tapioca",
     "slug": "ginga-com-tapioca",
-    "image": "/products/ginga-com-tapioca.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Ginga_Com_Tapica_162x162_png_bcb132dfb1.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_You_Ginga_Com_Tapioca_Essencial_Wood_Carvalho_Malva_abr23_2_png_c4384f81a4.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/GINGA_COM_TAPICOCA_ACETINATTA_1_png_779cb48c37.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Escolha_Projeto_You_590x370_1_png_6ccb722b4e.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Ultra_Premium590x370_2_png_ea72e9e3b9.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_ad2d5690e8.jpg"
+    ],
     "category": "General Collection",
     "description": "A dive into Potiguar culture under the inventiveness of the people and the beauty of the coastal landscape?. @pedrodias.arquitetura"
   },
   {
     "name": "Hibiscus",
     "slug": "hibisco",
-    "image": "/products/hibisco.png",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Hibisco_Essencial_Betula_Thera_DF_Atlanta_Art_Out31_final_212x162_01f3d97bae.png",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Essencial_Hibisco_150x150m_Baixa_scaled_88aebe2c69.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Hibisco_Essencial_Betula_Thera_DF_Atlanta_Art_Out31_final_scaled_0636d74f49.png"
+    ],
     "category": "Essential Line",
     "description": "The Hibiscus pattern reveals a depth that spans time. Its welcoming color gives a new meaning to vintage with a contemporary look, awakening affectionate memories and a feeling of familiarity. Between the playful and the essential, it creates environments that celebrate the permanence of affection and the strength of a style that does not age."
   },
   {
     "name": "Itapua",
     "slug": "itapua",
-    "image": "/products/itapua.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_itapua_212x162_png_448790cf3f.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/slider_ambiente_itapua_png_d75b1bf32a.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/linha_essencial_wood_padrao_itapua_842x533_2_78f5eddaea.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/itapua_portoro_carbono_590x370px_jpg_baa1c636ed.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_Prancheta_1_590x370_962c5c3a0b.jpg"
+    ],
     "category": "Woody",
     "description": "The beauty of the natural wood veneer with its innovative wood finish and soft shine in the pores offers the environment a youthful, timeless look full of personality."
   },
   {
     "name": "Jequitiba Rosa",
     "slug": "jequitiba-rosa",
-    "image": "/products/jequitiba-rosa.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/S_Ambiente_Essencial_Wood_Jequitiba_Rosa_212x162_png_e45b2967c3.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/S_Ambiente_Essencial_Wood_Jequitiba_Rosa_png_e7a3b1f292.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/S_padrao_Essencial_Wood_Jequitiba_Rosa_b2f71fb57a.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Essencial_Wood_Jequitiba_Rosa_Singular_Mineral_Dourado_Essencial_Cinza_Sagrado_Perola_Urbana_Altura2160px_b4e3f4709e.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_7a62e57cc4.webp"
+    ],
     "category": "Woody",
     "description": "It conveys a serene and cozy feeling that brings welcome, tranquility and lightness, combined with the appreciation of an original wood from Brazil."
   },
   {
     "name": "Lake",
     "slug": "lago",
-    "image": "/products/lago.png",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/You_Lago_Cristallo_Freijo_Imperial_Thera_DF_Ferrara_Unique_jan25_copiar_162x162_a9f05c1755.png",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/You_Lago_Cristallo_Freijo_Imperial_Thera_DF_Ferrara_Unique_jan25_copiar_8ed69d07da.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Lago_274m_X184m_4ba48241f0.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/LAGO_DURATEX_YOU_15366261bd.png"
+    ],
     "category": "General Collection",
     "description": "With a green tone and smooth movements. Its texture and color bring the calm and depth of calm waters, bringing with them the silent beauty of nature, providing a feeling of balance and serenity to environments, where every detail invites contemplation and deep rest, like the reflection of a lake at sunset."
   },
   {
     "name": "Legno",
     "slug": "legno",
-    "image": "/products/legno.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Legno_162x162_png_d40fd8ac8e.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Legno_png_b72a1c2594.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Legno_Padrao_png_8e7a2c6b80.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Escolha_Projeto_You_590x370_1_png_1321837fe9.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Ultra_Premium590x370_2_png_f816f7ffa7.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_8206eb37ba.jpg"
+    ],
     "category": "Woody",
     "description": "The Legno print is a handmade reinterpretation of wood, the soul of Duratex. @mauricioarruda?"
   },
   {
     "name": "Belgian Linen",
     "slug": "linho-belga",
-    "image": "/products/linho-belga.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/LINHO_BELGA_copiar_1_212x162_png_8815b6bcc1.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Sense_Linho_Belga_Prisma_Carvalho_Lir_DF_New_Way_Nordica_jan24_54cd347694.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/LINHO_BELGA_copiar_3_png_6ba2274bce.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/LINHO_BELGA_png_2895cfe0b9.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_Prancheta_1_590x370_795ef635f5.jpg"
+    ],
     "category": "Sense Line",
     "description": "Designed like the best Belgian linens, it has a soft touch that inspires tranquility and calmly attracts the eye. Being an unexpected touch for your furniture."
   },
   {
     "name": "Retro Brown",
     "slug": "marrom-retro",
-    "image": "/products/marrom-retro.png",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Marrom_Retro_Essencial_Nex_Geo_You_Acetinatta_DF_Nogueira_Italiana_Spot_Out29_final_212x162_985218500d.png",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Essencial_Marrom_Retro_150x150m_Baixa_scaled_7a971cbe29.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Marrom_Retro_Essencial_Nex_Geo_You_Acetinatta_DF_Nogueira_Italiana_Spot_Out29_final_scaled_ae51b5d9b7.png"
+    ],
     "category": "Essential Line",
     "description": "Retro Brown emerges as an expression of time inscribed in matter. Its earthy tone carries the memory of artisanal gestures and the strength of the original pigments, creating spaces where tradition is updated and identity is revealed in an intimate and permanent way."
   },
   {
     "name": "Moss",
     "slug": "moss",
-    "image": "/products/moss.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Moss_590x370_1_1_212x162_png_7e30768917.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Moss_8e57c78310.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Padrao_Moss590x370_11b29e5e45.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Velluto_Moss_Design_Brise_Conceito_Bolero_Trama_Gianduia_jan23_1_scaled_jpg_4843f5e2ce.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_ea76114fe8.jpg"
+    ],
     "category": "Essential Line",
     "description": "Natural coating, with a velvety touch that brings positivity and harmony. From the tones of nature, a calm frequency that brings hope and elegance."
   },
   {
     "name": "Nazca",
     "slug": "nazca",
-    "image": "/products/nazca.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Nazca_590x370_1_1_212x162_png_0fc3f26dcb.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Nazca_caf17d1c5f.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Padrao_Nazca590x370_png_5e5c4c51f7.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Velluto_Nazca_Acetinatta_Tartufo_Trama_Titanio_jan23_scaled_jpg_a4fd4a05f7.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_4556a099f9.jpg"
+    ],
     "category": "Velluto Line",
     "description": "With a delicate diamond pattern and a soft color, its texture transitions between metallic and hybrid, adding information in a sophisticated way, creating a unique look."
   },
   {
     "name": "NexGeo",
     "slug": "nex-geo",
-    "image": "/products/nex-geo.png",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/You_Nex_Geo_Cristallo_Trevi_Acetinatta_Zinco_Sense_DF_Belem_Nativa_jan25_copiar_162x162_386a7ebbec.png",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/You_Nex_Geo_Cristallo_Trevi_Acetinatta_Zinco_Sense_DF_Belem_Nativa_jan25_copiar_f60a7ad8bf.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Nex_Geo_274m_X184m_0fa9cd4689.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/NEX_GEO_DURATEX_YOU_48aff1cdfb.png"
+    ],
     "category": "General Collection",
     "description": "Inspired by the warm woods of Brazilian modernism such as ironwood and rosewood, this pattern combines the refinement of modernism with contemporary sophistication. Its lines create a rich and dynamic texture, highlighting the geometric and linear character, while the deep tone of the wood adds a touch of current elegance. Providing depth to any space."
   },
   {
     "name": "Asti Walnut",
     "slug": "nogueira-asti",
-    "image": "/products/nogueira-asti.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/NOGUEIRA_ASTIS_copiar_1_212x162_png_f94c55f396.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Essencial_Wood_Nogueira_Asti_Velluto_Gianduia_Natural_Moss_DF_Studio_Carvalho_Belize_jan24_c747efe433.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/NOGUEIRA_ASTI_copiar_1_png_dbd7d6db06.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/NOGUEIRA_ASTI_2_1_png_b622ba0f6b.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_Prancheta_1_590x370_28029058d8.jpg"
+    ],
     "category": "Woody",
     "description": "Inspired by the characteristic design of northern Italian furniture, this dark, warm wood and its calm, natural movements bring elegance to the space."
   },
   {
     "name": "Bourbon Walnut",
     "slug": "nogueira-bourbon",
-    "image": "/products/nogueira-bourbon.png",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Nogueira_Bourbon_Thera_Zinco_Sense_DF_Chamonix_Unique_PNG_Out_24_212x162_3d7c3aa74c.png",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Nogueira_Bourbon_Thera_Zinco_Sense_DF_Chamonix_Unique_PNG_Out_24_f78793838a.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/nogueira_bourbon_1_0a09be047c.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/nogueira_bourbon_1851e1496a.png"
+    ],
     "category": "Thera Line",
     "description": "Searching the techniques and finishes of the walnut barrels that make the best-known drinks in the world, it was translated into an elegant and intense pattern, which brings strength and also welcomes."
   },
   {
     "name": "Nogueira Cadiz",
     "slug": "nogueira-cadiz",
-    "image": "/products/nogueira-cadiz.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/590x370_nogueira_cadiz_212x162_png_cbc5119c5a.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/590x370_nogueira_cadiz_png_358dc36c4a.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/linha_prisma_padrao_nogueira_cadiz_507x375_dc92d8c850.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/nogueira_cadiz_arenito_verde_real_590x370px_jpg_b2e9e5791a.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_Prancheta_1_590x370_1160cbe797.jpg"
+    ],
     "category": "Prism Line",
     "description": "Cadiz Walnut is a pattern that reproduces wooden logs. Its rustic texture has a soft shine and a light linen touch similar to carved wood. This modern pattern results in a classic and timeless combination."
   },
   {
     "name": "Sheet music",
     "slug": "partitura",
-    "image": "/products/partitura.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Partitura_212x162_png_c51ed1fe38.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Partitura_png_4f9364ed30.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Partitura_Padrao_71cf3130cb.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Escolha_Projeto_You_590x370_1_png_7135cb4d0a.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Ultra_Premium590x370_2_png_36d62d565a.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_99f09917b1.jpg"
+    ],
     "category": "General Collection",
     "description": "Inspired by Rio de Janeiro bossa, the Partitura print translates the lightness and rhythm of bossa nova into colors and shapes.? @estudio_amar"
   },
   {
     "name": "Natural Iron Pau",
     "slug": "pau-ferro-natural",
-    "image": "/products/pau-ferro-natural.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/S_Ambiente_Essencial_Wood_Pau_Ferro_Natural_212x162_png_cf0dfa7ccb.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/S_Ambiente_Essencial_Wood_Pau_Ferro_Natural_png_493353c434.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/S_padrao_Essencial_Wood_Pau_Ferro_Natural_jpg_528dffe0b1.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Essencial_Wood_Pau_Ferro_Natural_Altura2160px1_jpg_6015840ede.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_4ed7385c69.webp"
+    ],
     "category": "Woody",
     "description": "Reinterpretation of a traditional, nostalgic wood that can give off a vintage and elegant air. With a remarkable personality with marked cathedrals and great nuances of color, predominating a warm color that brings comfort."
   },
   {
     "name": "Absolute Pearl",
     "slug": "perola-absoluto",
-    "image": "/products/perola-absoluto.png",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Perola_Absoluto_Design_Perola_Urbana_Essencial_Carvalho_Avela_Design_DF_Lille_Art_out24_212x162_9ed53ae184.png",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Perola_Absoluto_Design_Perola_Urbana_Essencial_Carvalho_Avela_Design_DF_Lille_Art_out24_76f64d29ac.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/perola_absoluto_1_3c660258f1.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/perola_absoluto_27d665c758.png"
+    ],
     "category": "Design Line",
     "description": "Combining sobriety and dazzle in a balanced way, the neutral tone is surprised by the delicate shine of the pearlescent along with the natural texture of the wood. Bringing a touch of discreet but striking glamour, and bringing the personality of the space in a refined and calm way."
   },
   {
     "name": "Pinole",
     "slug": "pinole",
-    "image": "/products/pinole.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/S_Ambiente_Essencial_Pinole_212x162_png_fecf9f6e03.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/S_Ambiente_Essencial_Pinole_png_0202cdcc9a.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Essencial_Pinole_150x150m_2000px_jpg_6a252ded2c.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Essencial_Pinole_Essencial_Wood_Pau_Ferro_Natural_Conceito_Lana_Altura2160px_a39d3906a1.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_78b4e5c18b.webp"
+    ],
     "category": "Essential Line",
     "description": "Inspired by the tones found in nature, chestnuts and seeds, Pinole transforms the space into an invigorating environment."
   },
   {
     "name": "Rialto",
     "slug": "rialto",
-    "image": "/products/rialto.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Digital_You_Rialto_Acetinatta_BP_Azul_Profundo_Essencial_Rovere_Braga_Thera_Mint_Essencial_mar24_copiar_162x162_png_af46d056a4.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Digital_You_Rialto_Acetinatta_BP_Azul_Profundo_Essencial_Rovere_Braga_Thera_Mint_Essencial_mar24_copiar_png_d6b50a8480.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Digital_You_Rialto_Acetinatta_BP_Azul_Profundo_Essencial_Rovere_Braga_Thera_Mint_Essencial_mar24_copiar_3_png_173db575a3.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Rialto_final_copiar_2_png_04c12e07f8.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Ultra_Premium590x370_2_png_edf882d2e3.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Escolha_Projeto_You_590x370_1_1_png_20f52e9049.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_Prancheta_1_590x370_63419e7f45.jpg"
+    ],
     "category": "General Collection",
     "description": "Rialto is a pattern that works with rhythmic repetitions interspersing geometric shapes inspired by the oldest and most famous bridge over the Grand Canal in Venice, with the colors of the waters that overlap, with greenish tones that inspire, refresh, calm and comfort."
   },
   {
     "name": "Infinity Pink",
     "slug": "rosa-infinito",
-    "image": "/products/rosa-infinito.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/S_Ambiente_Essencial_Rosa_Infinito_212x162_png_8ed74bc2dd.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Essencial_Rosa_Infinito_Design_Brise_Conceito_Hong_Kong_DF_Nativa_Santarem_tif_png_7e17e9d89c.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Essencial_Rosa_Infinito_275x185m_ac795399ef.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Essencial_Rosa_Infinito_Rosa_Glamour_Design_Maranta_Essencial_Wood_Inhotim_Altura2160px1_jpg_aeb93f58ae.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_2000px_jpg_fb2783fab1.webp"
+    ],
     "category": "Essential Line",
     "description": "The pattern brings a metallic touch that reinforces the sensations of purification and elegance, helping to create a pleasant atmosphere, highlighting its delicacy and subtlety."
   },
   {
     "name": "Ruvia",
     "slug": "ruvia",
-    "image": "/products/ruvia.png",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/You_Ruvia_Cristallo_Blush_Essencial_DF_Brooklin_City_jan25_copiar_162x162_f48747ea89.png",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/You_Ruvia_Cristallo_Blush_Essencial_DF_Brooklin_City_jan25_copiar_9c37b722fb.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Ruvia_274m_X184m_eb7dd74d8f.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/RUVIA_DURATEX_YOU_f4f82dcdbe.png"
+    ],
     "category": "General Collection",
     "description": "This white marble with intense red veins brings the beauty of the depths of the earth, where minerals and natural shapes carve unique paths. Combining classic and contemporary, it brings a harmonious contrast between soft white and natural red. Its design highlights the organic expression of the stone, giving protagonism and elegance to any environment."
   },
   {
     "name": "Tape",
     "slug": "tape",
-    "image": "/products/tape.png",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/You_Tape_Cristallo_BP_Ocre_Solar_Velluto_Nogueira_Asti_Essencial_Wood_fev25_copiar_162x162_9d5c7a4e70.png",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/You_Tape_Cristallo_BP_Ocre_Solar_Velluto_Nogueira_Asti_Essencial_Wood_fev25_copiar_bf57857ea1.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Tape_274m_X184m_476cc5c58f.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/TAPE_DURATEX_YOU_5f243ddac1.png"
+    ],
     "category": "General Collection",
     "description": "Created by Sig Bergamin and Murilo Lomas, the Tape pattern is a celebration of affective memory and innovation in interior design. Inspired by the idea of ​​recreating a wood pattern that is not wood, with an innovative touch, the designers sought references in the iconic cassette tapes that were part of Brazilian homes. These ribbons, with their earthy tones and characteristic textures, were given new meaning in a contemporary and sophisticated proposal. The fish scale layout brings dynamism and movement to the design."
   },
   {
     "name": "Teka Soho",
     "slug": "teka-soho",
-    "image": "/products/teka-soho.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/TEKA_SOHO_2_copiar_212x162_png_17b7d630a6.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Thera_Teka_Soho_Acetinatta_Grafite_Design_Trancoso_DF_Nature_Nagoya_jan24_png_7e3b2ed0ee.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/TEKA_SOHO_copiar_1_png_41345e64e7.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/TEKA_SOHO_png_58cfbfd849.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_Prancheta_1_590x370_b9b3c0b415.jpg"
+    ],
     "category": "Thera Line",
     "description": "Bringing a new proposal for mirrored cathedral designs, this Teka pattern brings with it new ways of thinking about its application in spaces, expanding perspectives."
   },
   {
     "name": "Timborana Silvestre",
     "slug": "timborana-silvestre",
-    "image": "/products/timborana-silvestre.png",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Timborana_Silvestre_Thera_Hibisco_Essencial_DF_Chamonix_Unique_Nov12_final_212x162_5e38b817f8.png",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Thera_Timborana_Silvestre_150x150m_Baixa_scaled_7ced992064.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Timborana_Silvestre_Thera_Hibisco_Essencial_DF_Chamonix_Unique_Nov12_final_scaled_516b0bb86d.png"
+    ],
     "category": "Thera Line",
     "description": "Celebrating beauty in its most genuine state, Timborana Silvestre translates the silent strength of raw nature. Its warm tones and deep textures evoke the organic, creating a sensitive atmosphere that reconnects spaces to their primordial essence."
   },
   {
     "name": "Plots",
     "slug": "tramas",
-    "image": "/products/tramas.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Digital_You_Tramas_Acetinatta_BP_Downtown_Sense_DF_Caravlho_Belize_Studio_mar24_copiar_1_162x162_png_95896ba281.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Digital_You_Tramas_Acetinatta_BP_Downtown_Sense_DF_Caravlho_Belize_Studio_mar24_copiar_1_png_03471f2782.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Tramas_Carlos_Rossi_copiar_3_png_24ed5d4b45.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/tramas_final_copiar_png_7a7948ccb1.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Escolha_Projeto_You_590x370_1_1_png_0b6a2f31f5.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Ultra_Premium590x370_2_png_4b639c7a7a.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_Prancheta_1_590x370_62f9b7264f.jpg"
+    ],
     "category": "General Collection",
     "description": "Created by the Carlos Rossi office, the panel project was inspired by the expressive lines of a Muxarabi, reinterpreted through the concept of Marquetry. The fusion between classic and contemporary elements reflects a growing trend in architecture and interior design."
   },
   {
     "name": "Trevi",
     "slug": "trevi",
-    "image": "/products/trevi.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Digital_You_Trevi_BP_Design_Trancoso_mar24_copiar_162x162_png_10cb39635e.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Digital_You_Trevi_BP_Design_Trancoso_mar24_copiar_png_fc56ae47bd.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Trevi_Acetinatta_png_47efefd1e2.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/trevi_final_copiar_1_png_772cc9e049.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_Prancheta_1_590x370_e31a575908.jpg",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Escolha_Projeto_You_590x370_1_1_png_220fb0a3ca.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Ultra_Premium590x370_2_png_7988470c7f.webp"
+    ],
     "category": "Marble/Stone",
     "description": "Inspired by Italian travertine, its movements reference the material used in construction and also the movements of the waters of the Trevi Fountain, bringing the classic in a new and unexpected way."
   },
   {
     "name": "Tribus",
     "slug": "tribus",
-    "image": "/products/tribus.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Digital_You_Tribus_BP_Velluto_Gianduia_Natural_DF_Unique_Hamburgo_mar24_copiar_162x162_png_2f7ae9e710.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Digital_You_Tribus_BP_Velluto_Gianduia_Natural_DF_Unique_Hamburgo_mar24_copiar_png_ce7bdda3b4.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Tribus_Denise_Zuba_1_1_png_c292ab48cb.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/tribus_final_copiar_1_png_a9a24bf09d.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Escolha_Projeto_You_590x370_1_1_png_7dec1bcf42.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Ultra_Premium590x370_2_png_0e65bf8e20.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_Prancheta_1_590x370_459e0cf9d1.jpg"
+    ],
     "category": "General Collection",
     "description": "Created by architect Denise Zuba, the pattern is inspired by tribal graphics, highlighted by colors that are trending in 2024 and are also timeless, referring to water and earth."
   },
   {
     "name": "Zen",
     "slug": "zen",
-    "image": "/products/zen.webp",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/Digital_You_Zen_BP_Essencial_Wood_Oasis_DF_Nativa_Ferrara_mar24_copiar_162x162_png_510ed87748.webp",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Digital_You_Zen_BP_Essencial_Wood_Oasis_DF_Nativa_Ferrara_mar24_copiar_png_e200a8dab1.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Zen_Felipe_Savassi_copiar_png_6d28067e50.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/zen_final_copiar_1_590x370_png_c69408b340.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Escolha_Projeto_You_590x370_1_1_png_30c98102b4.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Ultra_Premium590x370_2_png_364eb9c0bf.webp",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/Duratex_Slide_Protekto_590x370px_Prancheta_1_590x370_087fd6a24b.jpg"
+    ],
     "category": "General Collection",
     "description": "Created by architect Felipe Savassi, the Zen print features minimalist lines in an abstract pattern as a visual element and was inspired both by a Japanese Zen garden, which is a space of balance and simplicity, and by modular architecture, which is a construction system based on the repeatability and standardization of modules."
   },
   {
     "name": "Zinc",
     "slug": "zinco",
-    "image": "/products/zinco.png",
+    "image": "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Zinco_Sense_Cinza_Fossil_Velluto_Azul_Profundo_Essencial_DF_Vila_Velha_Nativa_out24_212x162_1a37fdc526.png",
+    "imageDetail": [
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/BP_Zinco_Sense_Cinza_Fossil_Velluto_Azul_Profundo_Essencial_DF_Vila_Velha_Nativa_out24_dd0e400f33.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/zinco_1_bded018ba5.png",
+      "https://duratex-site-strapi.prd.cloud.dex.co/assets/zinco_c42bb3cdca.png"
+    ],
     "category": "Sense Line",
     "description": "With a refined finish and striking brushing, it reflects a modern and balanced lifestyle, made for environments that value a sophisticated finish and functionality, aligned with moments of contemplation. Combining a contemporary and practical aesthetic."
   }

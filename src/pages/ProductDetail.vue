@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed } from 'vue'
+import { computed, ref, watch } from 'vue'
 import { useRoute } from 'vue-router'
 import products from '../data/products.json'
 
@@ -7,6 +7,7 @@ type Product = {
   name: string
   slug: string
   image: string
+  imageDetail?: string[] | string
   category?: string
   description?: string
 }
@@ -29,6 +30,44 @@ const relatedProducts = computed(() => {
 })
 
 const pageTitle = computed(() => product.value?.name ?? 'Product not found')
+
+const activeSlideIndex = ref(0)
+const detailImages = computed(() => {
+  if (!product.value) return []
+  const raw = product.value.imageDetail
+  if (Array.isArray(raw) && raw.length) return raw
+  if (typeof raw === 'string' && raw.length) return [raw]
+  return product.value.image ? [product.value.image] : []
+})
+
+const activeSlide = computed(() => detailImages.value[activeSlideIndex.value] || '')
+
+const setSlide = (index: number) => {
+  if (index < 0 || index >= detailImages.value.length) return
+  activeSlideIndex.value = index
+}
+
+const nextSlide = () => {
+  const total = detailImages.value.length
+  if (total <= 1) return
+  activeSlideIndex.value = (activeSlideIndex.value + 1) % total
+}
+
+const prevSlide = () => {
+  const total = detailImages.value.length
+  if (total <= 1) return
+  activeSlideIndex.value = (activeSlideIndex.value - 1 + total) % total
+}
+
+watch(product, () => {
+  activeSlideIndex.value = 0
+})
+
+watch(detailImages, (nextImages) => {
+  if (activeSlideIndex.value >= nextImages.length) {
+    activeSlideIndex.value = 0
+  }
+})
 </script>
 
 <template>
@@ -43,7 +82,34 @@ const pageTitle = computed(() => product.value?.name ?? 'Product not found')
   <section class="section" v-if="product">
     <div class="container product-detail-grid">
       <div class="product-detail-media reveal" style="--delay: 0.08s">
-        <img :src="product.image" :alt="product.name" loading="lazy" />
+        <div class="product-slider" v-if="detailImages.length">
+          <div class="product-slider-main">
+            <img :src="activeSlide" :alt="product.name" loading="lazy" />
+          </div>
+          <div class="product-slider-controls" v-if="detailImages.length > 1">
+            <button type="button" class="slider-nav" @click="prevSlide">Prev</button>
+            <span class="slider-count">
+              {{ activeSlideIndex + 1 }} / {{ detailImages.length }}
+            </span>
+            <button type="button" class="slider-nav" @click="nextSlide">Next</button>
+          </div>
+          <div class="product-slider-thumbs" v-if="detailImages.length > 1">
+            <button
+              v-for="(imageUrl, index) in detailImages"
+              :key="`${imageUrl}-${index}`"
+              type="button"
+              class="product-slider-thumb"
+              :class="{ active: index === activeSlideIndex }"
+              @click="setSlide(index)"
+            >
+              <img
+                :src="imageUrl"
+                :alt="`${product.name} view ${index + 1}`"
+                loading="lazy"
+              />
+            </button>
+          </div>
+        </div>
       </div>
       <article class="product-detail-copy reveal" style="--delay: 0.11s">
         <p class="eyebrow">Surface story</p>

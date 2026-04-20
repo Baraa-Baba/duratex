@@ -8,6 +8,7 @@ type Product = {
   name: string
   slug: string
   image: string
+  imageDetail?: string[] | string
   category?: string
   description?: string
 }
