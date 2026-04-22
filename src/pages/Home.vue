@@ -192,6 +192,7 @@ const previousSlide = () => goToSlide(activeSlide.value - 1)
 
 const formatStatValue = (value: number, suffix: string) => `${value}${suffix}`
 
+const catalogUrl = '/catalog.pdf'
 const startStatsAnimation = () => {
   if (hasAnimatedStats) return
   hasAnimatedStats = true
@@ -269,16 +270,20 @@ onBeforeUnmount(() => {
     <div class="container home-hero-grid reveal" style="--delay: 0.05s">
       <div class="home-hero-copy">
         <p class="eyebrow">Duratex Middle East</p>
-        <h1>{{ activeHeroSlide.title }}</h1>
+        <h1>Direct MDF Supply from Brazil to UAE</h1>
         <p class="home-hero-lead">
-          {{ activeHeroSlide.description }}
+          High-quality MDF/MDP panels for distributors, joinery factories, and large-scale
+          projects in the UAE and GCC.
         </p>
         <div class="hero-actions">
-          <RouterLink class="button" :to="activeHeroSlide.ctaTo">
-            {{ activeHeroSlide.ctaLabel }}
-          </RouterLink>
-          <RouterLink class="button ghost" to="/contact">Talk to our team</RouterLink>
-        </div> 
+          <RouterLink class="button " to="/contact">Contact Us</RouterLink> 
+          <a class="button ghost" target="_blank" rel="noreferrer" :href="catalogUrl">
+            Get Catalog
+          </a>
+        </div>
+        <p class="home-hero-positioning">
+          Supplying MDF panels in bulk containers directly from Brazil to the UAE market.
+        </p>
       </div>
 
       <div class="home-hero-visual">
@@ -315,12 +320,135 @@ onBeforeUnmount(() => {
     </div>
   </section>
 
+
   <section class="section compact home-stats-section">
     <div ref="statsSectionRef" class="container stats-shell reveal" style="--delay: 0.1s">
       <div class="stat-strip">
         <div v-for="(stat, index) in stats" :key="stat.label" class="stat-strip-card">
           <span>{{ formatStatValue(animatedStatValues[index] ?? 0, stat.suffix) }}</span>
           <p>{{ stat.label }}</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="section">
+    <div class="container split-section reveal" style="--delay: 0.08s">
+      <article class="story-card">
+        <img src="/about.png" alt="Duratex Middle East operations and supply overview" loading="lazy" />
+      </article>
+
+      <div class="split-copy">
+        <p class="eyebrow">About Us</p>
+        <h2>About Us</h2>
+        <p>
+          Duratex Middle East is a Dubai-based supplier specializing in MDF/MDP panels sourced
+          directly from leading Brazilian manufacturers.
+        </p>
+        <p>
+          We focus on supplying distributors, joinery factories, and fit-out companies across the
+          UAE and GCC with consistent quality, competitive pricing, and reliable delivery.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container split-section reveal" style="--delay: 0.1s">
+      <div class="split-copy">
+        <p class="eyebrow">Trusted Supply from Brazil</p>
+        <h2>Trusted Supply from Brazil</h2>
+        <p>
+          We work with leading Brazilian manufacturers with international certifications,
+          ensuring consistent product quality and long-term supply capability for large-scale
+          projects.
+        </p>
+      </div>
+
+      <article class="story-card">
+        <img src="/certi.png" alt="International certifications from Brazilian manufacturers" loading="lazy" /> 
+      </article>
+    </div>
+  </section>
+
+  <section class="container section who-serve-section">
+    <div class=" section-heading reveal" style="--delay: 0.08s;"> 
+      <h2>Who We Serve</h2>
+    </div>
+
+    <div class="board-grid who-serve-grid">
+      <article class="board-card reveal" style="--delay: 0.08s">
+        <div>
+          <h3>
+            <i class="fa-solid fa-warehouse who-serve-icon" aria-hidden="true"></i>
+            <span>Building material distributors</span>
+          </h3>
+        </div>
+      </article>
+      <article class="board-card reveal" style="--delay: 0.1s">
+        <div>
+          <h3>
+            <i class="fa-solid fa-screwdriver-wrench who-serve-icon" aria-hidden="true"></i>
+            <span>Joinery and carpentry factories</span>
+          </h3>
+        </div>
+      </article>
+      <article class="board-card reveal" style="--delay: 0.12s">
+        <div>
+          <h3>
+            <i class="fa-solid fa-helmet-safety who-serve-icon" aria-hidden="true"></i>
+            <span>Fit-out and interior contractors</span>
+          </h3>
+        </div>
+      </article>
+      <article class="board-card reveal" style="--delay: 0.14s">
+        <div>
+          <h3>
+            <i class="fa-solid fa-ruler-combined who-serve-icon" aria-hidden="true"></i>
+            <span>Project developers</span>
+          </h3>
+        </div>
+      </article>
+    </div>
+  </section>
+
+  
+
+  <section class="section container">
+    <div class=" section-heading reveal" style="--delay: 0.08s">
+      <p class="eyebrow">Our Advantage</p>
+      <h2>Our Advantage</h2>
+      <p>
+        Built for B2B buyers who need dependable supply, stable pricing, and market-ready sizes
+        for projects across the UAE and GCC.
+      </p>
+    </div>
+
+    <div class=" compare-card reveal" style="--delay: 0.12s">
+      <div class="compare-summary">
+        <p class="compare-title">Direct supply built for scale</p>
+        <h3>Reliable sourcing, practical sizing, and consistent quality.</h3>
+        <p>
+          Our model is designed around container orders and repeat project demand, with the
+          flexibility needed by distributors, joinery factories, and fit-out teams.
+        </p>
+      </div>
+      <div class="compare-points">
+        <div>
+          <p>Direct factory sourcing from Brazil</p>
+        </div>
+        <div>
+          <p>Competitive pricing for container orders</p>
+        </div>
+        <div>
+          <p>Consistent quality (E1 / standard)</p>
+        </div>
+        <div>
+          <p>Reliable supply for bulk requirements</p>
+        </div>
+        <div>
+          <p>UAE market-focused sizes (4x8, 18mm),special size(5x9,18mm)</p>
         </div>
       </div>
     </div>

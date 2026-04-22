@@ -270,12 +270,19 @@ p {
 }
 
 .home-hero-copy h1 {
-  max-width: 15ch;
+  max-width: 18ch;
 }
 
 .home-hero-lead {
   max-width: 62ch;
   font-size: 1.06rem;
+}
+
+.home-hero-positioning {
+  max-width: 60ch;
+  margin-top: 18px;
+  font-size: 0.94rem;
+  color: var(--ink-soft);
 }
 
 .home-hero-meta {
@@ -562,8 +569,8 @@ p {
 
 .story-card img {
   width: 100%;
-  height: 210px;
-  object-fit: cover;
+  height: auto;
+  object-fit: contain;
 }
 
 .story-card div {
@@ -599,6 +606,33 @@ p {
 
 .board-card div {
   padding: 18px;
+}
+
+.who-serve-section .section-heading {
+  text-align: start;
+  justify-items: start;
+}
+
+.who-serve-grid .board-card h3 {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.who-serve-grid .board-card h3 span {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+
+.who-serve-icon {
+  display: block;
+  align-self: center;
+  color: var(--accent);
+  font-size: 1.9rem;
+  line-height: 1;
 }
 
 .compare-card {
@@ -645,6 +679,10 @@ p {
   display: block;
   font-family: var(--font-display);
   margin-bottom: 6px;
+}
+
+.compare-points div p:last-child {
+  margin-bottom: 0;
 }
 
 .compare-matrix {
@@ -1412,8 +1450,8 @@ textarea:focus {
   position: fixed;
   right: 25px;
   bottom: 85px;
-  width: 50px;
-  height: 50px;
+  width: 62px;
+  height: 62px;
   z-index: 999;
   display: flex;
   align-items: center;
@@ -1441,15 +1479,15 @@ textarea:focus {
 }
 
 .whatsapp-fab svg {
-  width: 28px;
-  height: 28px;
+  width: 34px;
+  height: 34px;
   fill: currentColor;
   flex: 0 0 auto;
 }
 
 .whatsapp-tooltip {
   position: absolute;
-  right: 75px;
+  right: 88px;
   background: var(--ink);
   color: #fff;
   padding: 8px 16px;

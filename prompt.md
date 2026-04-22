@@ -44,23 +44,9 @@ We focus on supplying distributors, joinery factories, and fit-out companies acr
 
 ---
 
-## 4. Update Products Section
-
-_Title:_
-Our Products
-
-_Content:_
-
-- Melamine MDF (White, TX, Wood finishes)
-- Raw MDF / MDP panels (4x8 – 18mm)
-- Super Matte & Anti-Fingerprint Panels
-- Decorative & Slotted Panels
-
----
-
 ## 5. Add Section – Trusted Supply from Brazil
 
-please add the image public/certifcate
+please add the image public/certi.png
 _Title:_
 Trusted Supply from Brazil
 
@@ -90,14 +76,5 @@ _Content:_
 Add this line in homepage:
 
 "Supplying MDF panels in bulk containers directly from Brazil to the UAE market."
-
----
-
-## 10. General Notes
-
-- Keep layout clean and minimal
-- Use strong product images (MDF boards, finishes)
-- Ensure fast loading speed
-- Make WhatsApp contact visible on all pages
 
 ---
