@@ -123,9 +123,10 @@ onBeforeUnmount(() => {
           <RouterLink class="footer-link" to="/contact">Contact</RouterLink>
         </div>
       </div>
-      <div class="container footer-bottom">
-        <span>(c) {{ year }} Duratex Middle East. All rights reserved.</span>
-        <span class="footer-note">Industrial luxury in engineered wood.</span>
+      <div class="container footer-bottom" style="justify-content: center; text-align: center;">
+        <small>
+          All Duratex® and Dexco® trademarks, catalogs, and materials are the property of Dexco S.A., Brazil. This website is independently operated for product presentation purposes only.
+        </small>
       </div>
     </footer>
 
