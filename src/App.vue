@@ -1,8 +1,7 @@
 <script setup lang="ts">
 import { nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue'
 import { useRoute } from 'vue-router'
-
-const year = new Date().getFullYear()
+ 
 const route = useRoute()
 
 const isWhatsappVisible = ref(false)
